@@ -1,1 +1,2 @@
 # coinChangePorblem
+Coin change Problem is taking input from "coins.txt" file that are in ascending order and then check either they will se simplfied through greedy method or dynamic problem if it is not solved by greedy method then move to dynamic programming ..In coins there are coins that are to be read by CoinChangeProblem and doc file contains the asymptotic notation of Coin change problem through greedy as well as dynamic programming.  
